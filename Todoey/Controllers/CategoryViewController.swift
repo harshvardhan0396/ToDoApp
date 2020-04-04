@@ -1,9 +1,6 @@
 //
 //  CategoryViewController.swift
 //  Todoey
-//
-//  Created by Philipp Muellauer on 28/11/2019.
-//  Copyright © 2019 Philipp Muellauer. All rights reserved.
 
 import UIKit
 import RealmSwift
